@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://baiweijieku.github.io/">
@@ -33,17 +33,15 @@
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
-  
+
 <img align="right" width="250" src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;大家好，我是勤奋同学。</p>
 <p>&emsp;&emsp;目前搬砖于华夏帝都</p>
 <p>&emsp;&emsp;IT互联网事业</p>
 <p>&emsp;&emsp;浮世万千，百味皆苦。。。</p>
-
 </td></tr>
-
-<tr><td>
+</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -67,7 +65,7 @@
 
 
 <!-- just img 图片 -->
-<img src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/assets/images/icon.png" /></div>
+<img src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/assets/images/icon.png" />
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -77,7 +75,7 @@
 <img width="200%" src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/assets/images/hr.gif" />
 
 <div align="center" >
-  
+
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=BaiWeiJieKu&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
