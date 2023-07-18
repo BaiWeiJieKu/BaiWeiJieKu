@@ -21,7 +21,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/main/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/BaiWeiJieKu/BaiWeiJieKu/snake/profile-snake-contrib/github-contribution-grid-snake.svg" />
 
 </div>
 
